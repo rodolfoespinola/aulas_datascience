@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 
-df = pd.read_csv('matplotlib/titanic.csv') # Precisei colocar o endereço
+df = pd.read_csv('aulas_matplotlib/titanic.csv') # Precisei colocar o endereço
 
 print(df.head())
 
